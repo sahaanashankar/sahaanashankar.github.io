@@ -4,8 +4,7 @@
 
 @font-face {
     font-family: 'apfel_grotezkregular';
-    src: url('apfelgrotezk-regular-webfont.woff2') format('woff2'),
-         url('apfelgrotezk-regular-webfont.woff') format('woff');
+    src: url('https://github.com/sahaanashankar/sahaanashankar.github.io/raw/main/apfelgrotezk-regular-webfont.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +15,7 @@
 
 @font-face {
     font-family: 'ribesblack';
-    src: url('ribes-black-webfont.woff2') format('woff2'),
-         url('ribes-black-webfont.woff') format('woff');
+    src: url('https://github.com/sahaanashankar/sahaanashankar.github.io/raw/main/ribes-black-webfont.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 
